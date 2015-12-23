@@ -1,0 +1,5 @@
+GOLD stands for Generalized Ocean Layer Dynamics and is a hybrid coordinate finite volume ocean model code funded by [NOAA](http://www.noaa.gov/) and developed by the [ocean group](http://www.gfdl.noaa.gov/ocean-model) at [NOAA-GFDL](http://www.gfdl.noaa.gov) and [Princeton University](http://www.princeton.edu/aos/). The GOLD code was used for the ocean model component of the Earth System Model ESM2G ([Dunne et al., 2012](http://dx.doi.org/10.1175/JCLI-D-11-00560.1)) as well as many other [publications](Publications.md) in the last few years.
+
+The GOLD code was publicly released by [NOAA-GFDL](http://www.gfdl.noaa.gov) in the summer of 2012 and subsequently moved into the public domain (i.e. this repository) to facilitate further community development. The [original source code](ftp://ftp.gfdl.noaa.gov/pub/projects/GOLD_pubrel/GOLD_pubrel3_withESM2G.tar.gz) at GFDL is frozen.
+
+To learn more, please see the [domentation wiki](DocumentationOverview.md).
